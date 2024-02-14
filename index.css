@@ -1,0 +1,28 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 10%;
+    background-color: #307526;
+}
+
+.message{
+    font-size: 30px;
+    font-weight: bold;
+    color:antiquewhite;
+}
+
+.heart{
+    width: 300px;
+}
+
+.yes,.no{
+    margin-top: 3%;
+    border:none;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    font-weight: bold;
+}
+
